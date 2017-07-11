@@ -1,0 +1,12 @@
+/target/
+build
+/.idea/
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.xml
